@@ -3,6 +3,12 @@ The Computer Vision functionality was my primary contribution to the project
 ### Links
 - Project Repository: https://github.com/Drone-Home/drone-home-combined.git
 - Computer Vision Repository: https://github.com/Drone-Home/OpenCV.git
+
+
+
+### User Interface
+![Current Page](./DroneHomeUI.png)
+
 <br>
 
 # PDF-GPT Project (Spring 2024)

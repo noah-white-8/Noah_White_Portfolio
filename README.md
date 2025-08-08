@@ -7,6 +7,8 @@ My implementation of a MIPS-like 32 bit processor
 ### Processor Architecture
 ![Architecture Img](./MIPSArch_Img.png)
 
+<br>
+
 # Drone Home (Fall 2024 - Spring 2025)
 Modification of a R/C car to make it capable of autonomously navigating to and charging a grounded drone
 

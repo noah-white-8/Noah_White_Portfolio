@@ -1,4 +1,4 @@
-# MIPS Processor (Spring 2025 - Present)
+# MIPS Processor (Spring 2025 - October 2025)
 My implementation of a MIPS-like 32 bit processor
 
 ### Links
